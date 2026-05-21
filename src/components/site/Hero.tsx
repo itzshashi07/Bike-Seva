@@ -67,7 +67,7 @@ export function Hero() {
                       </span>
                       <div>
                         <div className="text-xs text-muted-foreground">Captain</div>
-                        <div className="text-sm font-bold">Suresh ji</div>
+                        <div className="text-sm font-bold">Mukesh ji</div>
                       </div>
                     </div>
                     <span className="text-xs px-2 py-1 rounded-full bg-primary/10 text-primary font-semibold">2 min</span>
