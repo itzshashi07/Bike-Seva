@@ -42,8 +42,8 @@ export function Hero() {
 
           <div className="mt-10 grid grid-cols-3 gap-4 max-w-md">
             {[
-              { v: "500+", l: t.hero.stat1 },
-              { v: "120+", l: t.hero.stat2 },
+              { v: "100+", l: t.hero.stat1 },
+              { v: "20+", l: t.hero.stat2 },
               { v: "₹50", l: t.hero.stat3 },
             ].map((s) => (
               <div key={s.l} className="rounded-2xl bg-card/70 border border-border p-3 shadow-soft">
