@@ -76,12 +76,12 @@ export function Hero() {
                   <div className="space-y-3 text-sm">
                     <div className="flex items-start gap-2">
                       <MapPin className="size-4 text-primary mt-0.5" />
-                      <div><div className="font-semibold">Rampur</div><div className="text-xs text-muted-foreground">Pickup</div></div>
+                      <div><div className="font-semibold">Dangwar</div><div className="text-xs text-muted-foreground">Pickup</div></div>
                     </div>
                     <div className="ml-1.5 h-6 w-px border-l-2 border-dashed border-border" />
                     <div className="flex items-start gap-2">
                       <MapPin className="size-4 text-brand mt-0.5" />
-                      <div><div className="font-semibold">Sitapur</div><div className="text-xs text-muted-foreground">Drop · 8 km</div></div>
+                      <div><div className="font-semibold">Japla</div><div className="text-xs text-muted-foreground">Drop · 8 km</div></div>
                     </div>
                   </div>
                   <div className="mt-auto rounded-2xl bg-gradient-brand text-primary-foreground p-4 flex items-center justify-between">
